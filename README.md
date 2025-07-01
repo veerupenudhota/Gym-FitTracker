@@ -1,6 +1,6 @@
 💪 Veeru's Gym FitTracker
 
-Live Demo: https://gym-fittracker-17.onrender.com
+Live Demo: https://gym-fittracker-18.onrender.com
 
 Veeru's Gym FitTracker is an AI-powered fitness tracking application designed to enhance your workout experience. By combining the robustness of Spring Boot, the intelligence of OpenAI, and the interactivity of ReactJS, this platform offers personalized fitness insights and a seamless user experience.
 
